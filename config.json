@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "SuperSMP-KNQ1.aternos.me",
+  "serverPort": 28787,
+  "botUsername": "Molobot09",
+  "botChunk": 4
 }
